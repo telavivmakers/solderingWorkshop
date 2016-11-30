@@ -1,2 +1,2 @@
 # solderingWorkshop
-tami solderign workshop board designs code and instructions
+TAMI soldering workshop board designs code and instructions
