@@ -10,7 +10,8 @@
 	<Document>
 		<LocalLibrary />
 		<Pcb>
-			<File path=".\simon.fsx" isopened="1"/>
+			<File path=".\simon.fsx" isopened="0"/>
+			<File path=".\simon2.fsx" isopened="1"/>
 		</Pcb>
 		<Import>
 			<Specctra>
@@ -20,6 +21,12 @@
 		<ARouteSessions>
 			<Session name="simon" date="2016-11-30 22:58:57" path=".\autoroute_simon_161130225857\">
 			<File path=".\autoroute_simon_161130225857\simon_771-0sa.fsb" isopened="0"/>
+			</Session>
+			<Session name="simon2" date="2016-12-01 00:55:00" path=".\autoroute_simon2_161201005500\">
+			<File path=".\autoroute_simon2_161201005500\simon2_864-0sa.fsb" isopened="0"/>
+			</Session>
+			<Session name="simon2" date="2016-12-01 00:56:33" path=".\autoroute_simon2_161201005633\">
+			<File path=".\autoroute_simon2_161201005633\simon2_797-0sa.fsb" isopened="0"/>
 			</Session>
 		</ARouteSessions>
 	</Document>
